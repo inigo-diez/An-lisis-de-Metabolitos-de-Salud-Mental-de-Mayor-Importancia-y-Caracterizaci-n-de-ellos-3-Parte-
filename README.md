@@ -13,6 +13,7 @@ A partir de los resultados del proyecto Analisis-Metabol-mico-Estad-stico-con-Py
 2. **Enriquecimiento con base de datos de referencia**: los candidatos se contrastan contra una base de datos curada de ~39.000 compuestos asociados a condiciones de salud mental, incorporando para cada coincidencia la información disponible sobre condiciones asociadas, matriz biológica, método de detección, tipo de evidencia y vínculo microbiano.
 
 <img width="1374" height="889" alt="image" src="https://github.com/user-attachments/assets/013793cc-000f-4ec7-96b8-abfa1d2fdf80" />
+
 > El ranking integrado de sensibilidad metabólica presenta una distribución diferenciada, con los disulfuros dimetílicos y aldehídos de cadena corta ocupando las primeras posiciones (puntuaciones ~0.44), mientras que los alcanos de cadena larga, ácidos grasos y monoterpenos emergen como los metabolitos más reactivos a las variaciones experimentales (puntuaciones 0.65–0.73). Se deberá realizar un estudio a profundización a futuro de ello para razonar el motivo. 
 
 
