@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Identificación de los metabolitos más sensibles al cambio entre condiciones experimentales es el núcleo de este trabajo. Un metabolito sensible es aquel cuya abundancia varía de forma consistente y discriminante entre grupos, independientemente de que esa variación sea de gran magnitud o alcance significación estadística convencional, priorizar estos compuestos permite focalizarnos en ellos de tal manera que se pueda lograr evitar la perdida de aquellos que sean candidatos relevantes para el estudio.
+La identificación de los metabolitos más sensibles al cambio entre condiciones experimentales constituye el núcleo de este trabajo. Se considera metabolito sensible aquel cuya abundancia muestra variaciones consistentes entre las condiciones analizadas. La priorización de estos compuestos permite focalizar el análisis en aquellos metabolitos potencialmente relevantes, incluso cuando los cambios observados no presentan una gran magnitud o no alcanzan significación estadística convencional, evitando así descartar candidatos que podrían tener interés relacionado con la salud mental en etapas posteriores del estudio.
 
 ## Qué hace este proyecto
 
