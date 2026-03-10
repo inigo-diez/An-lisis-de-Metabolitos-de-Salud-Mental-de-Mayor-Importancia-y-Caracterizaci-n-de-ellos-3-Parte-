@@ -1,4 +1,4 @@
-# Análisis Metabolómico GC-MS para la Identificación de Biomarcadores Volátiles en Salud Mental
+# Identificación de los metabolitos con mayor sensibilidad frente a las diferentes condiciones experimentales
 
 ## Introducción
 
